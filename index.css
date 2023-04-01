@@ -1,0 +1,85 @@
+h1 {
+    color:#269c9a;
+}
+
+h2 {
+    color:yellowgreen;
+}
+.h2{
+    font-size: 40px;
+    padding: 0px;
+    margin: 0;
+}
+.top{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-bottom: 0;
+    height:40vh;
+}
+body{
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+.bottom{
+    padding: 0;
+    height: 60vh;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width: 50vw;
+    color: white;
+    padding: 60px;
+    background-color: #269c9a
+}
+
+.right{ 
+    color: white;
+    font-size: 40px;
+    width: 50vw;
+    padding: 60px;
+    background-color: #4abebd
+}   
+
+.dollar{
+    font-size: 40px;
+    padding-right: 10px;
+}
+.notsmall{
+    
+    font-size: 20px;
+}
+.list{
+    font-size: 30px;
+    color: #84d9da
+}
+.one{
+    margin-top: -20px;
+    margin-bottom: -20px;
+    display: flex;
+    align-items: center;
+}
+.small{
+    color: #56cdcc
+}
+
+
+button{
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 15px rgba(96, 95, 95, 0.5);
+    margin-top: 50px;
+    width: 100%;
+    height: 50px;
+    background-color: yellowgreen;
+    color: white;
+}
+
+
+
+
+
+
+
